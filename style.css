@@ -1,0 +1,73 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+body{
+  font-family: 'DM Sans', sans-serif;
+  line-height:1.5em;
+}
+.list-unstyled li{
+  margin: 10px;
+}
+.navbar-toggler-icon {
+  color:white;
+}
+.form-control .text-title {
+  height: 55px;
+  margin-bottom: 0px;
+  border: 1px none #000;
+  border-radius: 5px;
+  color: #222;
+}
+footer{
+  background-color:#083232; 
+  color:#fff;
+}
+
+footer li a{
+  color:#fff;
+ 
+}
+footer li a:hover{
+  color:rgb(148, 135, 135)
+}
+
+footer li{
+  list-style: none;
+  font-style: bold;
+
+}
+
+.features-photo img{
+  max-width: 100%;
+  max-height: 100%;
+  display: block; 
+}
+.features-photo{
+  width: 450px;
+  height:700px;        
+  border-radius:5px;
+}  
+.grid-boxx img{
+
+  width: 25%;
+  height:25%;
+  
+}
+.grid-boxx {
+  text-align: center;
+}
+
+.grid-boxx h5{
+color:#000;
+font-size: x-large;
+}
+.desk img{
+
+  max-width: 95%;
+  max-height: 95%;
+  display: block; 
+  
+}
